@@ -1,0 +1,10 @@
+C:\Users\Даниел\Documents\GitHub\EntityFramework-CodeFirst-BookShopSystem\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.dll.config
+C:\Users\Даниел\Documents\GitHub\EntityFramework-CodeFirst-BookShopSystem\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.dll
+C:\Users\Даниел\Documents\GitHub\EntityFramework-CodeFirst-BookShopSystem\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.pdb
+C:\Users\Даниел\Documents\GitHub\EntityFramework-CodeFirst-BookShopSystem\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.dll
+C:\Users\Даниел\Documents\GitHub\EntityFramework-CodeFirst-BookShopSystem\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.pdb
+C:\Users\Даниел\Documents\GitHub\EntityFramework-CodeFirst-BookShopSystem\BookShopSystem.Models\bin\Debug\EntityFramework.dll
+C:\Users\Даниел\Documents\GitHub\EntityFramework-CodeFirst-BookShopSystem\BookShopSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Даниел\Documents\GitHub\EntityFramework-CodeFirst-BookShopSystem\BookShopSystem.Models\bin\Debug\EntityFramework.xml
+C:\Users\Даниел\Documents\GitHub\EntityFramework-CodeFirst-BookShopSystem\BookShopSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Даниел\Documents\GitHub\EntityFramework-CodeFirst-BookShopSystem\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.csprojResolveAssemblyReference.cache

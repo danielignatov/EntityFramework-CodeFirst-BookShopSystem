@@ -52,11 +52,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BookShopContext.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BookShopSystem.Models\BookShopSystem.Models.csproj">
+      <Project>{4c54d8cb-3faa-469b-a1e2-35c2baf1a0e5}</Project>
+      <Name>BookShopSystem.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

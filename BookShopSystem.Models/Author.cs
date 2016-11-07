@@ -13,19 +13,18 @@
         // Constructor
         public Author()
         {
-            this.Books = new HashSet<Book>();
+            this.books = new HashSet<Book>();
         }
 
         // Properties
-        [Key, Range(1, Int32.MaxValue)]
-        public int Id;
+        [Key]
+        public int Id { get; set; }
 
         public string FirstName { get; set; }
 
         [Required]
         public string LastName { get; set; }
-
-        [NotMapped]
+        
         public virtual ICollection<Book> Books
         {
             get
